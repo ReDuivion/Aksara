@@ -40,10 +40,6 @@ export default function HomeComponent() {
                 </Button>
               </Link>
 
-              <Button className="bg-white font-bold text-sky-500 mt-5">
-                Mulai belajar
-              </Button>
-
             </div>
           </div>
 
