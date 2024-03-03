@@ -4,8 +4,6 @@ import foto from "../../../public/images/aksara-sunda.png";
 import bg from "../../../public/images/bg.png";
 import Artikel from "../../pages/Artikels/Artikel.jsx";
 
-import foto from "../../../public/images/aksara-sunda.png"
-import bg from "../../../public/images/bg.png"
 
 import {
   Navbar,
@@ -63,5 +61,4 @@ export default function HomeComponent() {
 
 }
 
-}
 
