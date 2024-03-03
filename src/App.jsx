@@ -18,6 +18,7 @@ function App() {
             <Route exact path="/materi/detail/:materiId" element={<DetailMateri/>}></Route>
             <Route exact path="/artikel" element={<Aksara/>}></Route>
             <Route exact path="/quiz" element={<Quiz/>}></Route>
+            <Route exact path="/artikel/:artikelId"></Route>
           </Routes>
         </Router>
       </div>
