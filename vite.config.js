@@ -14,18 +14,31 @@ export default defineConfig({
       },
       manifest: {
         name: 'Aksara Sunda',
-        short_name: 'MyApp',
-        description: 'My Awesome App description',
+        short_name: 'Aksara Sunda',
+        description: 'Diajar Aksara Sunda',
         theme_color: '#ffffff',
         icons: [
           {
-            src: 'icons/gambar.png',
+            src: 'icons/sunda.png',
+            sizes: '96x96',
+            type: 'image/png',
+            purpose: 'any maskable',
+          },
+          {
+            src: 'icons/sunda.png',
+            sizes: '128x128',
+            type: 'image/png',
+            purpose: 'any maskable',
+          },
+          {
+            src: 'icons/sunda.png',
             sizes: '192x192',
             type: 'image/png',
             purpose: "any maskable",
           },
+       
           {
-            src: 'icons/gambar.png',
+            src: 'icons/sunda.png',
             sizes: '512x512',
             type: 'image/png',
             purpose: "any maskable",
