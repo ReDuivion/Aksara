@@ -55,7 +55,7 @@ export default function ArtikelA() {
           <Image src={éleh} className="w-80" />
           <h1 className="text-center mt- mb-5 text-2xl font-bold">
             <div className="flex justify-center">
-              <h1 className="mr-12 ml-6">é</h1> <h1 className="ml- mr-6">leh</h1>{" "}
+              <h1 className="mr-12 ml-6">é</h1> <h1 className="ml- mr-6">léh</h1>{" "}
             </div>
           </h1>
           </div>
