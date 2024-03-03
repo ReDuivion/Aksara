@@ -17,7 +17,7 @@ import {
 import Back from "../../../components/Artikel/Back.jsx";
 import P from "../../../../public/images/P.png";
 import éndah from "../../../../public/images/endah.png";
-import éma from "../../../../public/images/ema.png";
+import éleh from "../../../../public/images/kalah.png";
 import Vokalisasi from "../../../../public/images/vokall.png";
 
 export default function ArtikelA() {
@@ -52,10 +52,10 @@ export default function ArtikelA() {
               <h1 className="mr-3 nl-1">dah</h1>
             </div>
           </h1>
-          <Image src={éma} className="w-80" />
+          <Image src={éleh} className="w-80" />
           <h1 className="text-center mt- mb-5 text-2xl font-bold">
             <div className="flex justify-center">
-              <h1 className="mr-12 ml-6">é</h1> <h1 className="ml- mr-3">ma</h1>{" "}
+              <h1 className="mr-12 ml-6">é</h1> <h1 className="ml- mr-6">leh</h1>{" "}
             </div>
           </h1>
           </div>

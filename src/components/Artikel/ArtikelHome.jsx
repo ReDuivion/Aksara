@@ -63,7 +63,7 @@ export default function ArtikelHome() {
             </CardBody>
           </Card>
         </Link>
-        <Link href="/artikel/o">
+        <Link href="/artikel/a">
           <Card className="mx-3">
             <CardHeader>
               <h1>Artaksa huruf ᮈ</h1>
@@ -99,7 +99,7 @@ export default function ArtikelHome() {
             <CardBody>
               <Image
                 isZoomed
-                src="../../../public/images/bayi.png"
+                src="../../../public/images/P.png"
                 className="shadow"
               />
             </CardBody>
